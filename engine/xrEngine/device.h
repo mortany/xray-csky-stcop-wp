@@ -18,6 +18,8 @@
 
 #define VIEWPORT_NEAR  0.2f
 
+#define VIEWPORT_NEAR_HUD 0.05f
+
 #define DEVICE_RESET_PRECACHE_FRAME_COUNT 10
 
 #include "../Include/xrRender/FactoryPtr.h"
